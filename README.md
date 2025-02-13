@@ -1,8 +1,7 @@
-# AssemblyConversor
-
 # Conversor de Número para Binário em Assembly
 
 Este é um projeto simples escrito em Assembly, que recebe um número do usuário e o converte para sua representação binária.
+Por hora o conversor só consegue converter numero de 0 a 9.
 
 ## Como executar
 
